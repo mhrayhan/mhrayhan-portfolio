@@ -141,9 +141,13 @@ section.about_right p {
 
 /* <<<<<<<<<<<<<<<==============Social Section==============>>>>>>>>>>>>>> */
 
-.social_icon a i, .footer_social a i {
-    margin-right: .5rem;
+.social_icon{
     margin-top: 5rem;
+}
+.social_icon a{
+    margin-right: .5rem;
+}
+.social_icon a i, .footer_social a i {
     padding: .3rem;
     color: var(--pure);
     background: var(--dark);
