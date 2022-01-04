@@ -582,10 +582,9 @@ footer .logo{
     }
     .social_icon{
         justify-content: center;
-    }
-    .social_icon a i{
         margin-top: 2rem;
     }
+
     section.about{
         padding-bottom: 3rem;
     }
