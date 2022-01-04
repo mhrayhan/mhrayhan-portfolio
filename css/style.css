@@ -431,17 +431,19 @@ footer{
     justify-content: center;
     margin-right: -1rem;
 }
-.footer_social a i{
+/* .footer_social a i{
     margin-top: 2rem;
     margin-bottom: 2rem;
-}
+} */
 footer .copyright{
     color: var(--ternary);
     font-family: 'lato' sans-serif;
+    margin-top: 2rem;
 }
 
 footer .logo{
     width: 150px;
+    margin-bottom: 2rem;
 }
 
 /* <<<<<<<<<<<<<==============Mobile Menue Section==============>>>>>>>>>>>> */
