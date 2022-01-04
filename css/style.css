@@ -137,13 +137,14 @@ section.about_right p {
     font-family: 'Lato', sans-serif;
     line-height: 1.8rem;
     color: var(--ternary);
+    margin-bottom: 5rem;
 }
 
 /* <<<<<<<<<<<<<<<==============Social Section==============>>>>>>>>>>>>>> */
 
-.social_icon{
+/* .social_icon{
     margin-top: 5rem;
-}
+} */
 .social_icon a{
     margin-right: .5rem;
 }
